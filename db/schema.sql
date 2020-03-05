@@ -1,5 +1,5 @@
 -- create database and table schema here
-USE heroku_27dc7e1957ed417;
+USE heroku_irepaq2tlouly3e3;
 
 CREATE TABLE burgers (
   id int NOT NULL AUTO_INCREMENT,
