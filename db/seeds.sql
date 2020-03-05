@@ -1,7 +1,5 @@
--- insert burgers here
-INSERT INTO burgers
-  (burger_name, devoured)
-VALUES
-  ('Mozza Burger', false),
-  ('Cheese Burger', false),
-  ('Beyond Burger', false);
+USE burgers_db;
+
+INSERT INTO burger (name, devoured)
+VALUES ("Double Bacon Burger", false),
+("No-Buns-Just-Meat Burger", false);
